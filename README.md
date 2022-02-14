@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gamerboywhatcancode
-- 👀 I’m interested in Programming and animation
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord
+- 📫 @FaarisPixel on twitter
 
 <!---
 gamerboywhatcancode/gamerboywhatcancode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
